@@ -1,6 +1,7 @@
 # Small-scale-dataset-for-LLM-learning
 This is a small scale dataset for training and fine-tuning large models.
-[dataset link](链接: https://pan.baidu.com/s/1E-D2baatTytqRo-38qbCqA?pwd=fypd 提取码: fypd)
+[dataset link](https://pan.baidu.com/s/1E-D2baatTytqRo-38qbCqA?pwd=fypd)
+ 提取码: fypd
 
 This dataset comprises Chinese and English novels harvested using web crawlers. It contains a total of 2,000 text files within the dataset, amounting to 1 gigabyte of data.
 
